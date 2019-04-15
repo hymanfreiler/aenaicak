@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aivaisieme.iprug.org/sitemap.xml
